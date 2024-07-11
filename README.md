@@ -8,7 +8,7 @@
 1. **Access the Admin Panel:**
    - Navigate to the admin panel of your WordPress site.
    - Go to `Poll Maker  > `Results` > https://localhost/wordpress/wp-admin/admin.php?page=poll-maker-ays-results&orderby=id&order=desc
-     ```
+     
 3. Search for orderby parameter.
 
 ## SQLMAP COMMAND
