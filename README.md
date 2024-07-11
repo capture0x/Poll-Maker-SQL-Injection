@@ -7,7 +7,7 @@
 
 1. **Access the Admin Panel:**
    - Navigate to the admin panel of your WordPress site.
-   - Go to `Poll Maker  > `Results` > https://localhost/wordpress/wp-admin/admin.php?page=poll-maker-ays-results&orderby=id&order=desc
+   - Go to `Poll Maker`  > `Results` > https://localhost/wordpress/wp-admin/admin.php?page=poll-maker-ays-results&orderby=id&order=desc
      
 3. Search for orderby parameter.
 
@@ -33,3 +33,6 @@ do you want sqlmap to try to optimize value(s) for DBMS delay responses (option 
 [08:04:01] [DEBUG] used the default behavior, running in batch mode
 web application technology: Apache 2.4.54, PHP 8.0.23
 back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+
+
