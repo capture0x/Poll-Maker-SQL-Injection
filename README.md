@@ -34,5 +34,7 @@ do you want sqlmap to try to optimize value(s) for DBMS delay responses (option 
 web application technology: Apache 2.4.54, PHP 8.0.23
 back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
 
+<img alt="Result" src="https://raw.githubusercontent.com/capture0x/Poll-Maker-SQL-Injection/main/11.png">
+
 
 
