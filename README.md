@@ -3,7 +3,7 @@
 ### Exploit Author: tmrswrr
 ### Category : Webapps
 ### Vendor: https://ays-pro.com/wordpress/poll-maker
-### Version 5.3.2
+### Version 5.3.2 , 5.3.3
 
 1. **Access the Admin Panel:**
    - Navigate to the admin panel of your WordPress site.
